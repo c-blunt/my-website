@@ -14,13 +14,13 @@ style: styles-6
 
 #Profile information
 name: Christopher Blunt
-tagline: I'm a PM, Developer, Satellite Communications Expert, Trainer and Ethical Hacker living in Bangkok, Thailand.
+tagline: A Developer, Satellite Communications Expert, Trainer and Hacker living in Bangkok, Thailand.
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: hello@christopherblunt.com
 phone: +66(0)4502-1379
-website: blog.christopherblunt.com #do not add http://
+website: www.christopherblunt.com #do not add http://
 linkedin: ''
 github: c-blunt
 twitter: ''
